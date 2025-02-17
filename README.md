@@ -2,6 +2,10 @@
 
 An advanced machine learning project combining deep learning-based gum segmentation with statistical regression analysis for automated dental measurements. This system aims to provide accurate gum measurements from dental images by correlating pixel measurements with clinical measurements.
 
+> **⚠️ PRIVACY NOTICE**
+>
+> This is a private repository containing sensitive healthcare data. The dataset used in this project consists of medical/dental records and cannot be shared publicly due to healthcare privacy regulations and data protection requirements. Access to the dataset and related materials is strictly restricted.
+
 ## 📋 Table of Contents
 - [Project Overview](#project-overview)
 - [System Architecture](#system-architecture)
